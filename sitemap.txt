@@ -1,0 +1,26 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+ <url>
+  <loc>http://sait.ru/</loc>
+  <lastmod>2014-09-18T18:54:13+04:00</lastmod>
+ </url>
+ <url>
+  <loc>http://sait.ru/contacts.html/</loc>
+  <lastmod>2014-09-18T18:57:09+04:00</lastmod>
+ </url>
+ <url>
+  <loc>http://sait.ru/index.html/</loc>
+  <lastmod>2014-09-18T18:59:37+04:00</lastmod>
+ </url>
+ <url>
+  <loc>http://sait.ru/new1.html</loc>
+  <lastmod>2014-09-18T18:59:37+04:00</lastmod>
+ </url>
+ <url>
+  <loc>http://sait.ru/new2.html/</loc>
+  <lastmod>2014-09-18T18:59:37+04:00</lastmod>
+ </url>
+ <url>
+  <loc>http://sait.ru/news.html</loc>
+  <lastmod>2014-09-18T18:59:37+04:00</lastmod>
+ </url>
+</urlset>
